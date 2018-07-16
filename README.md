@@ -34,7 +34,8 @@ win客户端软件:
 ##### 8.uBlock Plus Adblocker  浏览器广告拦截
 
 可以屏蔽网站的各种广告弹窗超级好用
-
+##### 9.Scanner磁盘占用分析 [下载](http://www.steffengerlach.de/freeware/index.html)
+图表显示硬盘或其他媒体的使用情况。该图表一次显示所有目录级别的所有主要文件和文件夹
 开发者所需工具
 
 1.[autojcode](http://www.autojcode.com/index.html) 在线网站代码自动生成
